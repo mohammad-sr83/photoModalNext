@@ -1,0 +1,22 @@
+[
+    {
+        "id":"1",
+        "text":"first_comment in the comment page"
+    },
+    {
+        "id":"2",
+        "text":"Secend_comment in the comment page"
+    },
+    {
+        "id":"3",
+        "text":"this page is a not-found"
+    },
+    {
+        "id":"4",
+        "text":"your page is very good"
+    },
+    {
+        "id":"5",
+        "text":"Ilove you"
+    }
+]
